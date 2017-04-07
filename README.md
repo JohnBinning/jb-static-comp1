@@ -5,7 +5,7 @@ This is a site dedicated to a true American hero.  He doesn't tolerate communism
 Project parameters were to mimic the outline of http://frontend.turing.io/assets/images/static-comp-challenge-1.jpg
 and make it responsive.  My final product (desktop version) can be seen as an [image here](http://imgur.com/a/0LaVL) or  here [as a complete page here](https://johnbinning.github.io/jb-static-comp1/ )
 
-![Image](http://imgur.com/a/0LaVL)
+![Image](images/9zOfSHs.jpg)
 
 ## Motivation
 
